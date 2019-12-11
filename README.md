@@ -1,7 +1,7 @@
 # IP Lookup Module
 ### This module takes a dataframe with a column of IP addresses and returns a series containing the country locations of the addresses.  IPv4 and IPv6 are supported.
 <br/>
-This module uses the IP2Location service to download the database.  The user must have registered for a free API key through their website: https://www.ip2hocation.com
+This module uses the IP2Location service to download the database.  The user must have registered for a free API key through their website: https://www.ip2location.com
 <br/><br/>
 Once the user acquires an API key, copy and paste the key string in the DOWNLOAD_TOKEN constant within the iplookup.py file.
 <br/><br/>
