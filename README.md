@@ -10,4 +10,4 @@ The user can provide a filepath where the database will be stored or the module 
 This is an example of using the module:
 <br/><br/>
 
-![example.png](attachment:example.png)
+![example.png](example.png)
